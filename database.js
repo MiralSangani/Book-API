@@ -1,7 +1,7 @@
 const books = [{
     ISBN: "12345Book",
     title: "Getting started with MERN",
-    pubDate: "2021-11-25",
+    pubDate: "2021-1125",
     language: "en",
     numPage: 250,
     author: [1, 2],
